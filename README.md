@@ -8,5 +8,5 @@ This was created to practice if-else statements in python.
 
 ## Prerequisites
 
-Install Python 3.8.
-Open and run python file with IDLE.
+* Install Python 3.8.
+* Open and the run python file with IDLE.
