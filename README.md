@@ -4,4 +4,4 @@ This program allows you to calculate interest on an investment or calculate the 
 
 ## Motivation
 
-This was created to practice if-else statement in python.
+This was created to practice if-else statements in python.
