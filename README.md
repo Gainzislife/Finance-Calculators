@@ -13,7 +13,8 @@ This was created to practice if-else statements in python.
 
 ## Screenshots
 
-![Screenshot1](https://user-images.githubusercontent.com/38373537/77049963-a7a65a80-69d1-11ea-8ed3-fc9f9e3bd201.png)
 **Example of the bond calculation**
-![Screenshot2](https://user-images.githubusercontent.com/38373537/77050054-d0c6eb00-69d1-11ea-8345-198c5b45bb63.png)
+![Screenshot1](https://user-images.githubusercontent.com/38373537/77049963-a7a65a80-69d1-11ea-8ed3-fc9f9e3bd201.png)
+
 **Example of the investment calculation**
+![Screenshot2](https://user-images.githubusercontent.com/38373537/77050054-d0c6eb00-69d1-11ea-8345-198c5b45bb63.png)
