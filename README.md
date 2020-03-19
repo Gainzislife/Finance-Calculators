@@ -10,3 +10,5 @@ This was created to practice if-else statements in python.
 
 * Install Python 3.8.
 * Open and the run python file with IDLE.
+
+![Screenshots](/screenshots/screenshot1.png
